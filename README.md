@@ -108,6 +108,19 @@ The Numbers 15-1134 tells us nothing and requires look up to figure out what it 
 Another issue is that the Standard Occupational Classification is done by the government and anything done by the government is going to be slow and not uptodate.
 
 
+
+> Example of this is looking at their description of a Web Developer:
+> 
+> [http://www.bls.gov/soc/2010/soc151134.htm
+> ](http://www.bls.gov/soc/2010/soc151134.htm)
+
+Last Modified Date: March 11, 2010
+
+A lot of things have changed in 5 years and not updating it since 2010 is not acceptable.
+
+The VOC system will have a "living" dictionary of Job Titles and Skills that are updated in real time as they change.
+
+
 ## Goal for the VOC system is to have it Crowd Powered that is current in real time 24/7/365. ##
 
 
