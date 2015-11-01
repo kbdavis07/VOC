@@ -1,5 +1,7 @@
 # VOC  [http://voc.resumerepo.com]("VOC")
 
+[![Join the chat at https://gitter.im/kbdavis07/voc](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kbdavis07/voc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##A Dictionary for Job Titles / Positions and Skills##
 
 Job titles in today's world can vary greatly from one company to another and there needs to be a way to have job titles that means the same to all companies and people.
